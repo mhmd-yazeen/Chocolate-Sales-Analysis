@@ -63,4 +63,3 @@ This project simulates a real-world business intelligence scenario for a chocola
 * Use of aggregate functions and relative benchmarking via subqueries.
 
 ---
-mmmmmm
